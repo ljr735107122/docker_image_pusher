@@ -7,4 +7,4 @@ xhofe/alist:latest
 cloudnas/clouddrive2:latest
 jellyfin/jellyfin:latest
 nyanmisaka/jellyfin:latest
-portainer/portainer:latest
+portainer/portainer-ce:latest
