@@ -10,3 +10,4 @@ nyanmisaka/jellyfin:latest
 portainer/portainer-ce:latest
 uifd/ui-for-docker:latest
 p3terx/aria2-pro:latest
+p3terx/ariang:latest
