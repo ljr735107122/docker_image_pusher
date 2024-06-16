@@ -8,3 +8,4 @@ cloudnas/clouddrive2:latest
 jellyfin/jellyfin:latest
 nyanmisaka/jellyfin:latest
 portainer/portainer-ce:latest
+uifd/ui-for-docker:latest
