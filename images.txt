@@ -5,6 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 clouddrive/clouddrive2:latest
+cloudnas/cloudrive2:latest
 jellyfin/jellyfin:latest
 nyanmisaka/jellyfin:latest
 portainer/portainer-ce:latest
