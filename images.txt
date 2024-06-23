@@ -4,8 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-clouddrive/clouddrive2:latest
-cloudnas/cloudrive2:latest
 jellyfin/jellyfin:latest
 nyanmisaka/jellyfin:latest
 portainer/portainer-ce:latest
@@ -13,3 +11,4 @@ uifd/ui-for-docker:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
 lovechen/embyserver:latest
+cloudnas/clouddrive2:latest
