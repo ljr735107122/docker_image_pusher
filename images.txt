@@ -13,4 +13,3 @@ p3terx/aria2-pro:latest
 p3terx/ariang:latest
 lovechen/embyserver:latest
 photoprism/photoprism:latest
-immich-app/immich:latest
