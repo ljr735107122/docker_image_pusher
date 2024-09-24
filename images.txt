@@ -15,3 +15,4 @@ lovechen/embyserver:latest
 photoprism/photoprism:latest
 cnk3x/xunlei:latest
 odoo:latest
+postgres:latest
