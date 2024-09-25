@@ -1,17 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 cloudnas/clouddrive2:latest
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 jellyfin/jellyfin:latest
-nyanmisaka/jellyfin:latest
-portainer/portainer-ce:latest
-uifd/ui-for-docker:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
-lovechen/embyserver:latest
 photoprism/photoprism:latest
 cnk3x/xunlei:latest
 odoo:latest
