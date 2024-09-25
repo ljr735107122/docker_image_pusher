@@ -7,4 +7,4 @@ cnk3x/xunlei:latest
 odoo:latest
 postgres:latest
 syncthing/syncthing:latest
-Jackett/Jackett:latest
+linuxserver/docker-jackett:latest
