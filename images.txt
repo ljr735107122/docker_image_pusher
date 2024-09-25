@@ -16,3 +16,5 @@ photoprism/photoprism:latest
 cnk3x/xunlei:latest
 odoo:latest
 postgres:latest
+syncthing/syncthing:latest
+LiuXIn011/rightHouse:latest
