@@ -1,4 +1,3 @@
-linuxserver/docker-Jackett:latest
 cloudnas/clouddrive2:latest
 jellyfin/jellyfin:latest
 p3terx/aria2-pro:latest
