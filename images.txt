@@ -7,5 +7,4 @@ cnk3x/xunlei:latest
 odoo:latest
 postgres:latest
 syncthing/syncthing:latest
-linuxserver/docker-jackett:latest
 ollama/ollama:latest
