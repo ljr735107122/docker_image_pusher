@@ -8,5 +8,4 @@ odoo:latest
 postgres:latest
 syncthing/syncthing:latest
 ollama/ollama:latest
-open-webui/open-webui:latest
 photopea/photopea:latest
