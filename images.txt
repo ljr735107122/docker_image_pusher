@@ -8,3 +8,4 @@ odoo:latest
 postgres:latest
 syncthing/syncthing:latest
 ollama/ollama:latest
+WordPress/WordPress:latest
