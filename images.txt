@@ -9,3 +9,4 @@ postgres:latest
 syncthing/syncthing:latest
 ollama/ollama:latest
 wordpress/wordpress:latest
+frooodle/s-pdf:latest
