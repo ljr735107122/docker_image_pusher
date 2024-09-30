@@ -9,4 +9,4 @@ postgres:latest
 syncthing/syncthing:latest
 ollama/ollama:latest
 frooodle/s-pdf:latest
-stirling-tools/stirling-PDF:latest
+zerotier/zerotier:latest
