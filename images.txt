@@ -1,6 +1,6 @@
 cloudnas/clouddrive2:latest
 jellyfin/jellyfin:latest
-p3terx/aria2-pro:latest
+P3TERX/Aria2-Pro-Docker:latest
 p3terx/ariang:latest
 photoprism/photoprism:latest
 cnk3x/xunlei:latest
