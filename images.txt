@@ -11,3 +11,4 @@ ollama/ollama:latest
 frooodle/s-pdf:latest
 zerotier/zerotier:latest
 alexta69/metube:latest
+gopeedlab/gopeed:latest
