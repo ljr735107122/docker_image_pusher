@@ -12,3 +12,5 @@ frooodle/s-pdf:latest
 zerotier/zerotier:latest
 alexta69/metube:latest
 liwei2633/gopeed:latest
+flaresolverr/flaresolverr:latest
+nastool/nas-tools:latest
