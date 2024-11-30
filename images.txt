@@ -14,3 +14,4 @@ alexta69/metube:latest
 liwei2633/gopeed:latest
 flaresolverr/flaresolverr:latest
 nastool/nas-tools:latest
+panda62/music-tag-web
