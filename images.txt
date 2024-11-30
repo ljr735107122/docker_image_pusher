@@ -17,3 +17,4 @@ nastool/nas-tools:latest
 panda62/music-tag-web:latest
 leesonaa/immich:latest
 wukongdaily/box:latest
+kovaszab/photopea:latest
