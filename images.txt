@@ -19,3 +19,4 @@ leesonaa/immich:latest
 wukongdaily/box:latest
 kovaszab/photopea:latest
 sulinggg/openwrt:x86_64
+deluan/navidrome:latest
