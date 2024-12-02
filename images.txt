@@ -18,3 +18,4 @@ panda62/music-tag-web:latest
 leesonaa/immich:latest
 wukongdaily/box:latest
 kovaszab/photopea:latest
+sulinggg/openwrt:x86_64
